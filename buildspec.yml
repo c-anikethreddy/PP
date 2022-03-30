@@ -25,3 +25,4 @@ artifacts:
     - target/pension-process-microservice-0.0.1-SNAPSHOT.jar
 
   discard-paths: yes
+  
